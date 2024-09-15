@@ -1,3 +1,3 @@
-#How to create a simple window in C
+# How to create a simple window in C
 
 Microsoft documentation is too hard, so I made a simple example...
